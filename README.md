@@ -1,4 +1,4 @@
-# 🔥 Algerian Forest Fires: Prediction & Classification Analysis
+# 🔥 Test Forest Fires: Prediction & Classification Analysis
 
 [![GitHub license](https://img.shields.io/github/license/MandyCodeX/algerian-forest-fire-classification)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -249,8 +249,8 @@ Here are real sample predictions produced by the deployed pipeline across variou
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MandyCodeX/algerian-forest-fire-classification.git
-cd algerian-forest-fire-classification
+git clone https://github.com/MandyCodeX/testforestfire.git
+cd testforestfire
 ```
 
 ### 2. Create and Activate a Virtual Environment
